@@ -58,9 +58,10 @@ The main objective of Nagrik Seva is to digitally empower citizens by providing 
 
 ---
 
-## 👩‍💻 Author
+##  Authors
 
 **Abha Naktode**
+
 **Raj Mohite**
 
 
